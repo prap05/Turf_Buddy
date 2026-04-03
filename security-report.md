@@ -1,7 +1,6 @@
 # **Security Assessment Report**
 
-## **Target: OWASP Juice Shop - Docker
-**
+## **Target: OWASP Juice Shop - Docker**
 
 **Assessed by:** Pranav Pandit  
 **Course:** B.Tech CSE (Cyber Security), Shri Ramdeobaba College of Engineering and Management, Nagpur  
