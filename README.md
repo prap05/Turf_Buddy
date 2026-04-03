@@ -3,6 +3,6 @@
 - OWASP ZAP
 - Browser DevTools
 
-- Author
+**Author**
 Pranav Pandit
 
