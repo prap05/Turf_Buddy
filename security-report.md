@@ -1,6 +1,7 @@
 # **Security Assessment Report**
 
-## **Target: Gemini Chat Bot Web Application**
+## **Target: OWASP Juice Shop - Docker
+**
 
 **Assessed by:** Pranav Pandit  
 **Course:** B.Tech CSE (Cyber Security), Shri Ramdeobaba College of Engineering and Management, Nagpur  
